@@ -1,0 +1,14 @@
+Requisitos:
+1. Tener el código en .py y ejecutarlo desde cualquier entorno de Python, ejemplo spyder.
+2. Tener una cámara conectada al computador, puede ser la de por defecto de un computador 
+portátil.
+3. Tener todo la carpeta completa y sin modificar ningún archivo.
+
+Instrucciones: 
+1. Reinicie el kernel.
+2. Agregue librería Pygame desde el kernel: 
+pip install pygame
+3. Reinicie el kernel.
+4. Ejecutar el código.
+5. Oprimir espacio para iniciar el juego.
+6. Si desea volver a jugar, empiece desde el paso 4.
